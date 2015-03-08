@@ -931,6 +931,8 @@ void WidgetMain::createUploadSetting()
 {
     if(NULL == pUploadSetting_)
     {
+    	qDebug() << "pUploadSetting_ == NULL";
+		
         pUploadSetting_ = new UploadSettingForm(this->rect(), this);
         connect(pUploadSetting_.data(), SIGNAL(signalDone()), this, SLOT(slotDone()));
         connect(pUploadSetting_, SIGNAL(signalSelectBoardType(QString,QString)), this, SLOT(slotBoardTypeItemClicked(QString,QString)));
@@ -938,8 +940,15 @@ void WidgetMain::createUploadSetting()
 
         pUploadSetting_ ->setAttribute(Qt::WA_DeleteOnClose);
         qDebug() << this->pos();
+
+		pUploadSetting_->setBoard(pSerialSetting_->getBoardType());
+		pUploadSetting_->setSerialPort(pSerialSetting_->getSerialPort());
         pUploadSetting_->show();
     }
+	else {
+		qDebug() << "pUploadSetting_ != NULL";
+		pUploadSetting_->show();
+	}
 }
 
 bool WidgetMain::saveCurrentState()
@@ -1100,8 +1109,9 @@ void WidgetMain::createListWidget()
             QVector<ListWidgetBeginData> datas;
 
 			datas.append(ListWidgetBeginData("Delay" , "wait a second" , "Delay", "./resource/images/BeginnerToolbar/BeginnerToolbar_Delay.png"));
-            //datas.append(ListWidgetBeginData("Switch" , "trun on, trun off" , "Switch", "./resource/images/BeginnerToolbar/BeginnerToolbar_Switch.png"));
-            //datas.append(ListWidgetBeginData("IF" , "if...then..." , "IF", "./resource/images/BeginnerToolbar/BeginnerToolbar_Triger.png"));
+            datas.append(ListWidgetBeginData("IF" , "if...then..." , "IF", "./resource/images/BeginnerToolbar/BeginnerToolbar_Triger.png"));
+            datas.append(ListWidgetBeginData("Switch" , "trun on, trun off" , "Switch", "./resource/images/BeginnerToolbar/BeginnerToolbar_Switch.png"));
+            datas.append(ListWidgetBeginData("Repeat" , "for,loop" , "Repeat", "./resource/images/BeginnerToolbar/BeginnerToolbar_Repeat.png"));
 
             createBeginerList(datas, listWidgetBeginner2);
             pEditScene_->addListWidgetPointer(listWidgetBeginner2);

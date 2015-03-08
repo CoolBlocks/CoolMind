@@ -179,7 +179,9 @@ void UploadSettingForm::initData()
 
 		map_name_index_["CoolMakers Arduino Starter Plus"] = 3;		
 		map_name_index_["CoolMakers Arduino Starter"] = 4;
-		
+
+        map_name_index_["CoolMakers Arduino Standard"] = 6;
+        map_name_index_["CoolMakers Arduino Standard Plus"] = 5;
 	//SLJ End
 		map_name_index_["Arduino Uno"] = 0;
 		map_name_index_["Arduino Duemilanove ATmega328"] = 1;
@@ -263,6 +265,7 @@ void UploadSettingForm::on_pushButtonUpload_clicked()
 void UploadSettingForm::on_pushButtonBack_clicked()
 {
 	close();
+	//this.hide();
 }
 
 void UploadSettingForm::slotBoardActivated(const QString &str)
@@ -285,6 +288,17 @@ void UploadSettingForm::slotSerialPortActivated(const QString &str)
 	currentSerialPort_ = str;
 	Q_EMIT signalSelectSerial(str);
 }
+
+void UploadSettingForm::setBoard(const QString &str)
+{
+	comboBoxBoard->setCurrentText(str);
+}
+
+void UploadSettingForm::setSerialPort(const QString &str)
+{
+	comboBoxSerialPort->setCurrentText(str);
+}
+
 
 void UploadSettingForm::on_pushButtonUno_clicked()
 {

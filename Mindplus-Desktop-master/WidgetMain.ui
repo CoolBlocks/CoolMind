@@ -198,10 +198,16 @@ QListView::item::hover
                     </property>
                     <item row="0" column="0">
                      <widget class="ListWidget" name="listWidgetBeginner1">
+                      <property name="sizePolicy">
+                       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+                        <horstretch>1</horstretch>
+                        <verstretch>1</verstretch>
+                       </sizepolicy>
+                      </property>
                       <property name="minimumSize">
                        <size>
                         <width>0</width>
-                        <height>500</height>
+                        <height>300</height>
                        </size>
                       </property>
                       <property name="focusPolicy">
@@ -1012,7 +1018,7 @@ QGraphicsView
           </font>
          </property>
          <property name="text">
-          <string>CoolMind+ 0.3.8</string>
+          <string>CoolMind+ 0.3.9</string>
          </property>
         </widget>
        </widget>

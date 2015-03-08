@@ -275,6 +275,12 @@ font: 20px &quot;arial&quot;;</string>
       <property name="styleSheet">
        <string notr="true"/>
       </property>
+      <property name="currentText">
+       <string>-------------CoolMakers----------------</string>
+      </property>
+      <property name="minimumContentsLength">
+       <number>0</number>
+      </property>
       <item>
        <property name="text">
         <string>-------------CoolMakers----------------</string>
@@ -288,6 +294,16 @@ font: 20px &quot;arial&quot;;</string>
       <item>
        <property name="text">
         <string>CoolMakers Arduino Starter Plus</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>CoolMakers Arduino Standard</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>CoolMakers Arduino Standard Plus</string>
        </property>
       </item>
      </widget>

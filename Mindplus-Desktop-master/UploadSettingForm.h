@@ -11,6 +11,9 @@ class UploadSettingForm : public QWidget, private Ui::UploadSettingForm
 public:
     explicit UploadSettingForm(const QRect &rect, QWidget *parent = 0);
 
+	void setBoard(const QString &str);
+	void setSerialPort(const QString &str);
+
 signals:
     void signalSelectBoardType(const QString &boardName, const QString &boardIndex);
 	void signalSelectBoard(const QString &board);
