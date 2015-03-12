@@ -1,4 +1,4 @@
-#ifndef PARAMETER_ANALOGPIN_FORM_H
+﻿#ifndef PARAMETER_ANALOGPIN_FORM_H
 #define PARAMETER_ANALOGPIN_FORM_H
 
 #include "ui_Parameter_AnalogPin_Form.h"

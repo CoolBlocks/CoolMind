@@ -1,4 +1,4 @@
-#include "CompleteLineEdit.h"
+﻿#include "CompleteLineEdit.h"
 #include <QKeyEvent>
 #include <QListView>
 #include <QStringListModel>

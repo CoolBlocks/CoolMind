@@ -1,4 +1,4 @@
-#ifndef FLOWLINE_H
+﻿#ifndef FLOWLINE_H
 #define FLOWLINE_H
 
 #include <QGraphicsLineItem>

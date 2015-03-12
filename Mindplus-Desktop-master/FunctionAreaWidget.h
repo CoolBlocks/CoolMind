@@ -1,4 +1,4 @@
-#ifndef FUNCTIONWIDGET_H
+﻿#ifndef FUNCTIONWIDGET_H
 #define FUNCTIONWIDGET_H
 
 #include "ui_FunctionAreaWidget.h"

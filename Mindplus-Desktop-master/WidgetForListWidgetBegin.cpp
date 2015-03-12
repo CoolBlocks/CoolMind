@@ -1,4 +1,4 @@
-#include "WidgetForListWidgetBegin.h"
+﻿#include "WidgetForListWidgetBegin.h"
 
 WidgetForListWidgetBegin::WidgetForListWidgetBegin(const QString &name, const QString &type,
 												   const QPixmap &image, QWidget *parent)

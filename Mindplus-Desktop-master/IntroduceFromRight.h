@@ -1,4 +1,4 @@
-#ifndef INTRODUCEFROMRIGHT_H
+﻿#ifndef INTRODUCEFROMRIGHT_H
 #define INTRODUCEFROMRIGHT_H
 
 #include <QWidget>

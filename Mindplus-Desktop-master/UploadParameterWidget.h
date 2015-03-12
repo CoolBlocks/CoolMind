@@ -1,4 +1,4 @@
-#ifndef UPLOADPARAMETERWIDGET_H
+﻿#ifndef UPLOADPARAMETERWIDGET_H
 #define UPLOADPARAMETERWIDGET_H
 
 #include "ui_UploadParameterWidget.h"

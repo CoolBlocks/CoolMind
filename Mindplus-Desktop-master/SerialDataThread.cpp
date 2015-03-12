@@ -1,4 +1,4 @@
-#include "SerialDataThread.h"
+﻿#include "SerialDataThread.h"
 
 #include <QDebug>
 #include <QRegExp>

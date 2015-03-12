@@ -1,4 +1,4 @@
-#include "WidgetShowScene.h"
+﻿#include "WidgetShowScene.h"
 #include <QGridLayout>
 #include <QGraphicsView>
 #include <QGraphicsScene>

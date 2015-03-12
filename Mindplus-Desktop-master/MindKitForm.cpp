@@ -1,4 +1,4 @@
-#include "MindKitForm.h"
+﻿#include "MindKitForm.h"
 #include <QMouseEvent>
 #include <QTimer>
 #include "MindKitPushButton.h"

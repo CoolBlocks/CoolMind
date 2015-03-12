@@ -1,4 +1,4 @@
-#include "FunctionAreaWidget.h"
+﻿#include "FunctionAreaWidget.h"
 #include <QMouseEvent>
 #include <QDebug>
 #include <QPen>

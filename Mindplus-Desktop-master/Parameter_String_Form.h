@@ -1,4 +1,4 @@
-#ifndef Parameter_String_Form_H
+﻿#ifndef Parameter_String_Form_H
 #define Parameter_String_Form_H
 
 #include "ui_Parameter_String_Form.h"

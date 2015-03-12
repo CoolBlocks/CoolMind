@@ -1,4 +1,4 @@
-#include "ParameterItem.h"
+﻿#include "ParameterItem.h"
 #include <QPainter>
 #include <QDebug>
 #include <QGraphicsSceneMouseEvent>

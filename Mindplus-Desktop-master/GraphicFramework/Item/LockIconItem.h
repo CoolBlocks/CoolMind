@@ -1,4 +1,4 @@
-#ifndef LOCKICONITEM_H
+﻿#ifndef LOCKICONITEM_H
 #define LOCKICONITEM_H
 #include "GraphicsItemBase.h"
 

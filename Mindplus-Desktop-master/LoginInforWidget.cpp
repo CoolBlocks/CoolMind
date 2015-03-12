@@ -1,4 +1,4 @@
-#include "LoginInforWidget.h"
+﻿#include "LoginInforWidget.h"
 #include <QPainter>
 LoginInforWidget::LoginInforWidget(QWidget *parent) :
     QWidget(parent)

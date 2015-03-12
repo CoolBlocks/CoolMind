@@ -1,4 +1,4 @@
-#ifndef WIDGETMAIN_H
+﻿#ifndef WIDGETMAIN_H
 #define WIDGETMAIN_H
 
 #include "ui_WidgetMain.h"

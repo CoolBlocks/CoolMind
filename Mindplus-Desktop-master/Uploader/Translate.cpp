@@ -1,4 +1,4 @@
-#include "Translate.h"
+﻿#include "Translate.h"
 #include <QFile>
 #include <QSqlDatabase>
 #include <QSqlQuery>

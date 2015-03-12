@@ -1,4 +1,4 @@
-#ifndef LOGININFORWIDGET_H
+﻿#ifndef LOGININFORWIDGET_H
 #define LOGININFORWIDGET_H
 
 #include "ui_LoginInforWidget.h"

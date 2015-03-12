@@ -1,4 +1,4 @@
-#ifndef CUSTOMFONT_H
+﻿#ifndef CUSTOMFONT_H
 #define CUSTOMFONT_H
 
 #include <QMap>

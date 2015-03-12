@@ -1,4 +1,4 @@
-#include "CallUpdateProgram.h"
+﻿#include "CallUpdateProgram.h"
 #include <QProcess>
 
 CallUpdateProgram::CallUpdateProgram(QObject *parent) :

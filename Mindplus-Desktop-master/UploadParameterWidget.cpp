@@ -1,4 +1,4 @@
-#include "UploadParameterWidget.h"
+﻿#include "UploadParameterWidget.h"
 #include <QPainter>
 #include <QPaintEvent>
 #include <QStyleOption>

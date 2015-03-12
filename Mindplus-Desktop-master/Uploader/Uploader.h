@@ -1,4 +1,4 @@
-#ifndef UPLOADER_H
+﻿#ifndef UPLOADER_H
 #define UPLOADER_H
 
 #include <QObject>

@@ -1,4 +1,4 @@
-#include "Animation.h"
+﻿#include "Animation.h"
 #include <QRect>
 #include <QPoint>
 #include <QVariant>

@@ -1,4 +1,4 @@
-#ifndef CALLUPDATEPROGRAM_H
+﻿#ifndef CALLUPDATEPROGRAM_H
 #define CALLUPDATEPROGRAM_H
 
 #include <QObject>

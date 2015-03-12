@@ -1,4 +1,4 @@
-#include "StartItem.h"
+﻿#include "StartItem.h"
 #include <QGraphicsSceneMouseEvent>
 #include <QPainter>
 #include <QDebug>

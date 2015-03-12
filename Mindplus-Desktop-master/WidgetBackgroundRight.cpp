@@ -1,4 +1,4 @@
-#include "WidgetBackgroundRight.h"
+﻿#include "WidgetBackgroundRight.h"
 #include <QPainter>
 
 WidgetBackgroundRight::WidgetBackgroundRight(QWidget *parent)

@@ -1,4 +1,4 @@
-#ifndef LISTITEMWIDGT_FORM_H
+﻿#ifndef LISTITEMWIDGT_FORM_H
 #define LISTITEMWIDGT_FORM_H
 
 #include "ui_ListWidgetItemWidget_Component.h"

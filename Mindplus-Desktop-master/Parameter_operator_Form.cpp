@@ -1,4 +1,4 @@
-#include "Parameter_operator_Form.h"
+﻿#include "Parameter_operator_Form.h"
 #include <QPainter>
 #include <QKeyEvent>
 #include "Animation.h"

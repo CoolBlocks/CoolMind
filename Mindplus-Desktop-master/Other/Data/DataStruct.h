@@ -1,4 +1,4 @@
-#ifndef DATASTRUCT_H
+﻿#ifndef DATASTRUCT_H
 #define DATASTRUCT_H
 #include <QVector>
 #include <QString>

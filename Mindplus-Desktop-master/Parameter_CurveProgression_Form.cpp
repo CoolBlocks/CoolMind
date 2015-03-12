@@ -1,4 +1,4 @@
-#include "Parameter_CurveProgression_Form.h"
+﻿#include "Parameter_CurveProgression_Form.h"
 #include <QPainter>
 #include <QDebug>
 #include <QKeyEvent>

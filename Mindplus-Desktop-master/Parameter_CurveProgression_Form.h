@@ -1,4 +1,4 @@
-#ifndef PARAMETER_CURVEPROGRESSION_FORM_H
+﻿#ifndef PARAMETER_CURVEPROGRESSION_FORM_H
 #define PARAMETER_CURVEPROGRESSION_FORM_H
 
 #include "ui_Parameter_CurveProgression_Form.h"

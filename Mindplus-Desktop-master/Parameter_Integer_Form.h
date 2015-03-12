@@ -1,4 +1,4 @@
-#ifndef PARAMETER_INTEGER_FORM_H
+﻿#ifndef PARAMETER_INTEGER_FORM_H
 #define PARAMETER_INTEGER_FORM_H
 
 #include "ui_Parameter_Integer_Form.h"

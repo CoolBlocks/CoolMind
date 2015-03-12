@@ -1,4 +1,4 @@
-#ifndef PUSHBUTTONBLOCK_H
+﻿#ifndef PUSHBUTTONBLOCK_H
 #define PUSHBUTTONBLOCK_H
 
 #include <QPushButton>

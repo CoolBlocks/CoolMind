@@ -1,4 +1,4 @@
-#include "ListWidget.h"
+﻿#include "ListWidget.h"
 #include <QDropEvent>
 #include <QDebug>
 #include <QMouseEvent>

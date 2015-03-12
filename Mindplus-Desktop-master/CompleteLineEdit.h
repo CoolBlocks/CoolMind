@@ -1,4 +1,4 @@
-#ifndef COMPLETELINEEDIT_H
+﻿#ifndef COMPLETELINEEDIT_H
 #define COMPLETELINEEDIT_H
 
 #include <QLineEdit>

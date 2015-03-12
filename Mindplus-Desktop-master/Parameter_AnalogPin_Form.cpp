@@ -1,4 +1,4 @@
-#include "Parameter_AnalogPin_Form.h"
+﻿#include "Parameter_AnalogPin_Form.h"
 #include <QPainter>
 #include <QKeyEvent>
 #include <QSettings>

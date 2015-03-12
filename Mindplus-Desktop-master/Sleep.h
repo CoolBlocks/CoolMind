@@ -1,4 +1,4 @@
-#ifndef SLEEP_H
+﻿#ifndef SLEEP_H
 #define SLEEP_H
 
 class Sleep

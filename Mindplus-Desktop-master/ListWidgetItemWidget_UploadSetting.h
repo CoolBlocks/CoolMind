@@ -1,4 +1,4 @@
-#ifndef LISTWIDGETITEM_2_H
+﻿#ifndef LISTWIDGETITEM_2_H
 #define LISTWIDGETITEM_2_H
 
 #include "ui_ListWidgetItemWidget_UploadSetting.h"

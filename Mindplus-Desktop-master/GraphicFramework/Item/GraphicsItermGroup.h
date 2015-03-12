@@ -1,4 +1,4 @@
-#ifndef GRAPHICSITERMGROUP_H
+﻿#ifndef GRAPHICSITERMGROUP_H
 #define GRAPHICSITERMGROUP_H
 
 #include <QObject>

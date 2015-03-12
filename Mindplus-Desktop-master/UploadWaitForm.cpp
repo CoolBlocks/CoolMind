@@ -1,4 +1,4 @@
-#include "UploadWaitForm.h"
+﻿#include "UploadWaitForm.h"
 #include <QPropertyAnimation>
 #include <QEasingCurve>
 #include <QAbstractAnimation>

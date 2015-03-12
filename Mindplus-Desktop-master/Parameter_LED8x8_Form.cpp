@@ -1,4 +1,4 @@
-#include "Parameter_LED8x8_Form.h"
+﻿#include "Parameter_LED8x8_Form.h"
 #include <QPainter>
 #include <QDebug>
 #include <QKeyEvent>

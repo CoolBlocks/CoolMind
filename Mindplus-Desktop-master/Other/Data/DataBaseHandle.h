@@ -1,4 +1,4 @@
-#ifndef DATABASEHANDLE_H
+﻿#ifndef DATABASEHANDLE_H
 #define DATABASEHANDLE_H
 
 #include <QObject>

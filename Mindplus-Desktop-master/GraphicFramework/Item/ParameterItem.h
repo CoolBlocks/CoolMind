@@ -1,4 +1,4 @@
-#ifndef PARAMETERITEM_H
+﻿#ifndef PARAMETERITEM_H
 #define PARAMETERITEM_H
 
 #include "GraphicsItemBase.h"

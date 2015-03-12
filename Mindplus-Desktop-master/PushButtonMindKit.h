@@ -1,4 +1,4 @@
-#ifndef PUSHBUTTONMINDKIT_H
+﻿#ifndef PUSHBUTTONMINDKIT_H
 #define PUSHBUTTONMINDKIT_H
 
 #include <QPushButton>

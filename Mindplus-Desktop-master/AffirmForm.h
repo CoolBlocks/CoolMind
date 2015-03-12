@@ -1,4 +1,4 @@
-#ifndef AFFIRMFORM_H
+﻿#ifndef AFFIRMFORM_H
 #define AFFIRMFORM_H
 
 #include "ui_AffirmForm.h"

@@ -1,4 +1,4 @@
-#include "AllBlocksForm.h"
+﻿#include "AllBlocksForm.h"
 #include <QDebug>
 #include <QTimer>
 #include <QMouseEvent>

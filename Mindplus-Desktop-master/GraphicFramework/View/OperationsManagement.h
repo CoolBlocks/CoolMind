@@ -1,4 +1,4 @@
-#ifndef OPERATIONSMANAGEMENT_H
+﻿#ifndef OPERATIONSMANAGEMENT_H
 #define OPERATIONSMANAGEMENT_H
 
 #include <QGraphicsView>

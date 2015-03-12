@@ -1,4 +1,4 @@
-#include "EditScene.h"
+﻿#include "EditScene.h"
 #include <QDrag>
 #include <QMimeData>
 #include <QGraphicsSceneDragDropEvent>

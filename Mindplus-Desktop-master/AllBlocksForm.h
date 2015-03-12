@@ -1,4 +1,4 @@
-#ifndef ALLBLOCKSFORM_H
+﻿#ifndef ALLBLOCKSFORM_H
 #define ALLBLOCKSFORM_H
 
 #include "ui_AllBlocksForm.h"

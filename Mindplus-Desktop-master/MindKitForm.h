@@ -1,4 +1,4 @@
-#ifndef MINDKITFORM_H
+﻿#ifndef MINDKITFORM_H
 #define MINDKITFORM_H
 
 #include "ui_MindKitForm.h"

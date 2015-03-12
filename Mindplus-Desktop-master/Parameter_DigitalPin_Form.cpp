@@ -1,4 +1,4 @@
-#include "Parameter_DigitalPin_Form.h"
+﻿#include "Parameter_DigitalPin_Form.h"
 #include <QPainter>
 #include <QKeyEvent>
 #include <QDebug>

@@ -1,4 +1,4 @@
-#ifndef PARAM_H
+﻿#ifndef PARAM_H
 #define PARAM_H
 
 #include <QObject>

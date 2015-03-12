@@ -1,4 +1,4 @@
-#include "CurveProgressionWidget.h"
+﻿#include "CurveProgressionWidget.h"
 #include <QPainter>
 #include <QPen>
 #include <QBrush>

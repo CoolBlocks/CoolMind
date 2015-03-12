@@ -1,4 +1,4 @@
-#include "ToolBase.h"
+﻿#include "ToolBase.h"
 #include <QDebug>
 ToolBase::ToolBase(const QString &serial, const QString &board, int sketch, bool debug, QObject *parent)
     : QObject(parent)

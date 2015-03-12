@@ -1,4 +1,4 @@
-#include "AffirmForm.h"
+﻿#include "AffirmForm.h"
 #include <QMouseEvent>
 #include <QPainter>
 

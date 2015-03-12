@@ -1,4 +1,4 @@
-#include "BehaviourItem.h"
+﻿#include "BehaviourItem.h"
 #include <QPainter>
 #include <QDebug>
 #include <QGraphicsScene>

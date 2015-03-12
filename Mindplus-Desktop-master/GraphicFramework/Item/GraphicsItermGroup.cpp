@@ -1,4 +1,4 @@
-#include "GraphicsItermGroup.h"
+﻿#include "GraphicsItermGroup.h"
 #include <QDebug>
 #include <QKeyEvent>
 #include <QGraphicsSceneMouseEvent>

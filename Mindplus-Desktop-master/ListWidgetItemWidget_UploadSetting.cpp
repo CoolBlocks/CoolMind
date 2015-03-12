@@ -1,4 +1,4 @@
-#include "ListWidgetItemWidget_UploadSetting.h"
+﻿#include "ListWidgetItemWidget_UploadSetting.h"
 #include <QMouseEvent>
 #include <QDebug>
 #include <QPainter>

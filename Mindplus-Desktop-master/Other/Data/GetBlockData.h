@@ -1,4 +1,4 @@
-#ifndef GETBLOCKDATA_H
+﻿#ifndef GETBLOCKDATA_H
 #define GETBLOCKDATA_H
 
 #include <QObject>

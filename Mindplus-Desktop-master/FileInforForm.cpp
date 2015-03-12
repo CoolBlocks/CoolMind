@@ -1,4 +1,4 @@
-#include "FileInforForm.h"
+﻿#include "FileInforForm.h"
 #include <QMouseEvent>
 #include "WidgetMain.h"
 

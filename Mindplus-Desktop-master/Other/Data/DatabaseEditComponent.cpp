@@ -1,4 +1,4 @@
-#include "DatabaseEditComponent.h"
+﻿#include "DatabaseEditComponent.h"
 #include <QSqlDatabase>
 #include <QSqlQuery>
 #include <QDebug>
@@ -242,4 +242,5 @@ QString DatabaseEditComponent::getPrameterOwnerBBName(int index)
 QString DatabaseEditComponent::getPrameterIndexInLinageTable()
 {
     qDebug() << "从linkage表拿parameter的编号";
+    return "";
 }

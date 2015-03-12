@@ -1,4 +1,4 @@
-#ifndef WIDGETSHOWSCENE_H
+﻿#ifndef WIDGETSHOWSCENE_H
 #define WIDGETSHOWSCENE_H
 
 #include <QWidget>

@@ -1,4 +1,4 @@
-#include "Uploader.h"
+﻿#include "Uploader.h"
 #include <QDebug>
 #include <QSettings>
 #include "Translate.h"

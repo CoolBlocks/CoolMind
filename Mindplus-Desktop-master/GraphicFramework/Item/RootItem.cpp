@@ -1,4 +1,4 @@
-#include "RootItem.h"
+﻿#include "RootItem.h"
 #include <QPainter>
 #include <QDebug>
 #include <QLabel>

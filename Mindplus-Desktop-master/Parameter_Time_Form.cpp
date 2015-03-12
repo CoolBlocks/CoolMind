@@ -1,4 +1,4 @@
-#include "Parameter_Time_Form.h"
+﻿#include "Parameter_Time_Form.h"
 #include <QPainter>
 #include <QRegExp>
 #include <QDebug>

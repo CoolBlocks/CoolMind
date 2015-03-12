@@ -1,4 +1,4 @@
-#include "Parameter_Integer_Form.h"
+﻿#include "Parameter_Integer_Form.h"
 #include <QPainter>
 #include <QDebug>
 #include <QKeyEvent>

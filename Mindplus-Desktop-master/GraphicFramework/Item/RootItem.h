@@ -1,4 +1,4 @@
-#ifndef ROOTITEM_H
+﻿#ifndef ROOTITEM_H
 #define ROOTITEM_H
 
 #include "GraphicsItemBase.h"

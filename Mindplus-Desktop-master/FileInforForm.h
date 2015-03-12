@@ -1,4 +1,4 @@
-#ifndef FILEINFORFORM_H
+﻿#ifndef FILEINFORFORM_H
 #define FILEINFORFORM_H
 
 #include "ui_FileInforForm.h"

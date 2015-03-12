@@ -1,4 +1,4 @@
-#ifndef SERIALDATATHREAD_H
+﻿#ifndef SERIALDATATHREAD_H
 #define SERIALDATATHREAD_H
 
 #include <QObject>

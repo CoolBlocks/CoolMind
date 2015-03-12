@@ -1,4 +1,4 @@
-#include "Param.h"
+﻿#include "Param.h"
 
 Param::Param(QObject *parent)
 	: QObject(parent)

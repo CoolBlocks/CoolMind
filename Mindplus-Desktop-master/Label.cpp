@@ -1,4 +1,4 @@
-#include "Label.h"
+﻿#include "Label.h"
 #include <QGraphicsOpacityEffect>
 
 Label::Label(QWidget *parent) :

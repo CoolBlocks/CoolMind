@@ -1,4 +1,4 @@
-#ifndef TOOLSFACTORY_H
+﻿#ifndef TOOLSFACTORY_H
 #define TOOLSFACTORY_H
 
 #include <QObject>

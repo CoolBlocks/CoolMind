@@ -1,4 +1,4 @@
-#include "ListWidgetItemWidget_Photo.h"
+﻿#include "ListWidgetItemWidget_Photo.h"
 
 ListWidgetItemWidget_Photo::ListWidgetItemWidget_Photo(QWidget *parent) :
     QWidget(parent)

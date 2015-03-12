@@ -1,4 +1,4 @@
-#include "FunctionArea.h"
+﻿#include "FunctionArea.h"
 
 FunctionArea::FunctionArea(QWidget *parent) :
     QWidget(parent)

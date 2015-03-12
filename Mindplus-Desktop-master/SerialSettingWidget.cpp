@@ -1,4 +1,4 @@
-#include "SerialSettingWidget.h"
+﻿#include "SerialSettingWidget.h"
 #include <QPainter>
 #include <QPen>
 #include <QEvent>

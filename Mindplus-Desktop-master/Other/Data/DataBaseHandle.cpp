@@ -1,4 +1,4 @@
-#include "DataBaseHandle.h"
+﻿#include "DataBaseHandle.h"
 #include "ResultsetBase.h"
 #include <QDebug>
 #include <QStringList>

@@ -1,4 +1,4 @@
-#ifndef STARTITEM_H
+﻿#ifndef STARTITEM_H
 #define STARTITEM_H
 
 #include "GraphicsItemBase.h"

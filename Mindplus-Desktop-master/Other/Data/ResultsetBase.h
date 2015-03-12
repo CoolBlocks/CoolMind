@@ -1,4 +1,4 @@
-#ifndef RESULTSETBASE_H
+﻿#ifndef RESULTSETBASE_H
 #define RESULTSETBASE_H
 
 #include <QObject>

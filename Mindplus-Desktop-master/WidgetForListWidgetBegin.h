@@ -1,4 +1,4 @@
-#ifndef WIDGETFORLISTWIDGETBEGIN_H
+﻿#ifndef WIDGETFORLISTWIDGETBEGIN_H
 #define WIDGETFORLISTWIDGETBEGIN_H
 
 #include "ui_WidgetForListWidgetBegin.h"

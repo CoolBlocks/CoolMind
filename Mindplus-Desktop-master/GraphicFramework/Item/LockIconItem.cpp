@@ -1,4 +1,4 @@
-#include "LockIconItem.h"
+﻿#include "LockIconItem.h"
 #include <QPainter>
 #include <QGraphicsSceneMouseEvent>
 #include <QDebug>

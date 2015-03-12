@@ -1,4 +1,4 @@
-#include "Parameter_String_Form.h"
+﻿#include "Parameter_String_Form.h"
 #include <QPainter>
 #include <QMouseEvent>
 #include <QDebug>

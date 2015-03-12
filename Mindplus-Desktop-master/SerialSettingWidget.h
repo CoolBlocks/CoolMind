@@ -1,4 +1,4 @@
-#ifndef SERIALSETTINGWIDGET_H
+﻿#ifndef SERIALSETTINGWIDGET_H
 #define SERIALSETTINGWIDGET_H
 
 #include "ui_SerialSettingWidget.h"

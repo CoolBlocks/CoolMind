@@ -1,4 +1,4 @@
-#include "BlockMenuWidget.h"
+﻿#include "BlockMenuWidget.h"
 #include <QPainter>
 #include <QDebug>
 #include <QMouseEvent>

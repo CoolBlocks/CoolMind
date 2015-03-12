@@ -1,4 +1,4 @@
-#ifndef UPLOADSETTINGFORM_H
+﻿#ifndef UPLOADSETTINGFORM_H
 #define UPLOADSETTINGFORM_H
 
 #include "ui_UploadSettingForm.h"

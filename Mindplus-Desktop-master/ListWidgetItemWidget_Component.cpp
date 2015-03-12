@@ -1,4 +1,4 @@
-#include "ListWidgetItemWidget_Component.h"
+﻿#include "ListWidgetItemWidget_Component.h"
 #include <QDebug>
 #include <QPainter>
 #include <QStyleOption>

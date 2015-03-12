@@ -1,4 +1,4 @@
-#ifndef FUNCTIONAREA_H
+﻿#ifndef FUNCTIONAREA_H
 #define FUNCTIONAREA_H
 
 #include "ui_FunctionArea.h"

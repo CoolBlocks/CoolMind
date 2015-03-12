@@ -1,4 +1,4 @@
-#include "ToolsFactory.h"
+﻿#include "ToolsFactory.h"
 #include <QDebug>
 
 #include "ToolBase.h"

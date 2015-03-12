@@ -1,4 +1,4 @@
-#ifndef LISTWIDGETITEMWIDGET_PHOTO_H
+﻿#ifndef LISTWIDGETITEMWIDGET_PHOTO_H
 #define LISTWIDGETITEMWIDGET_PHOTO_H
 
 #include "ui_ListWidgetItemWidget_Photo.h"

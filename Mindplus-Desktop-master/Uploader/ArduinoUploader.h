@@ -1,4 +1,4 @@
-#ifndef ARDUINOUPLOADER_H
+﻿#ifndef ARDUINOUPLOADER_H
 #define ARDUINOUPLOADER_H
 
 #include "ToolBase.h"

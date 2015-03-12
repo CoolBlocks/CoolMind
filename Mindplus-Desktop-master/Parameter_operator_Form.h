@@ -1,4 +1,4 @@
-#ifndef PARAMETER_OPERATOR_FORM_H
+﻿#ifndef PARAMETER_OPERATOR_FORM_H
 #define PARAMETER_OPERATOR_FORM_H
 
 #include "ui_Parameter_operator_Form.h"

@@ -1,4 +1,4 @@
-#ifndef TOOLBASE_H
+﻿#ifndef TOOLBASE_H
 #define TOOLBASE_H
 
 #include <QObject>

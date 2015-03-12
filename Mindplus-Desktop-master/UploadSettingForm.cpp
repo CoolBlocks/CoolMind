@@ -1,4 +1,4 @@
-#include "UploadSettingForm.h"
+﻿#include "UploadSettingForm.h"
 
 #include <QVariant>
 #include <QDebug>

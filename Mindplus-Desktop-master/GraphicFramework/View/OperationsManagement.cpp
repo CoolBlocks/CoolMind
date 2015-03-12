@@ -1,4 +1,4 @@
-#include "OperationsManagement.h"
+﻿#include "OperationsManagement.h"
 #include <QScrollBar>
 #include <QTouchEvent>
 #include <QWheelEvent>

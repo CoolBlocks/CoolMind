@@ -1,4 +1,4 @@
-#include "ArduinoUploader.h"
+﻿#include "ArduinoUploader.h"
 #include <QDebug>
 #include <QMessageBox>
 

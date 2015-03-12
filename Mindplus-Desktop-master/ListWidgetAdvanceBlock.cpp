@@ -1,4 +1,4 @@
-#include "ListWidgetAdvanceBlock.h"
+﻿#include "ListWidgetAdvanceBlock.h"
 #include <QMouseEvent>
 #include <QDebug>
 #include <QMimeData>

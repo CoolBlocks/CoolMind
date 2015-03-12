@@ -1,4 +1,4 @@
-#include "SerialPortToolForm.h"
+﻿#include "SerialPortToolForm.h"
 
 #include <QDebug>
 #include <QMessageBox>

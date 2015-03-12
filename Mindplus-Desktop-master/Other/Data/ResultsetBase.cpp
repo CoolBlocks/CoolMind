@@ -1,4 +1,4 @@
-#include "ResultsetBase.h"
+﻿#include "ResultsetBase.h"
 
 ResultsetBase::ResultsetBase(QObject *parent) :
     QObject(parent)

@@ -1,4 +1,4 @@
-#include "DataBaseCreateComponent.h"
+﻿#include "DataBaseCreateComponent.h"
 #include <QSqlDatabase>
 #include <QSqlQuery>
 #include <QDebug>

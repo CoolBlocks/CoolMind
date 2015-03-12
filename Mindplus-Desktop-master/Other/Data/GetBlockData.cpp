@@ -1,4 +1,4 @@
-#include "GetBlockData.h"
+﻿#include "GetBlockData.h"
 #include <QSqlDatabase>
 #include <QSqlQuery>
 #include <QDebug>

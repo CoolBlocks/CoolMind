@@ -1,4 +1,4 @@
-#ifndef EDITSCENE_H
+﻿#ifndef EDITSCENE_H
 #define EDITSCENE_H
 
 #include <QGraphicsScene>

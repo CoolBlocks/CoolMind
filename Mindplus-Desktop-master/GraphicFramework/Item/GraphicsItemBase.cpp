@@ -1,4 +1,4 @@
-#include "GraphicsItemBase.h"
+﻿#include "GraphicsItemBase.h"
 #include <QDebug>
 #include <QTimer>
 #include <QGraphicsOpacityEffect>

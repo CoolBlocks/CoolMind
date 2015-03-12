@@ -1,4 +1,4 @@
-#ifndef UPLOADWAITFORM_H
+﻿#ifndef UPLOADWAITFORM_H
 #define UPLOADWAITFORM_H
 
 #include "ui_UploadWaitForm.h"

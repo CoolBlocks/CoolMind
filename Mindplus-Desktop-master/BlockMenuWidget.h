@@ -1,4 +1,4 @@
-#ifndef BLOCKMENUWIDGET_H
+﻿#ifndef BLOCKMENUWIDGET_H
 #define BLOCKMENUWIDGET_H
 
 #include "ui_BlockMenuWidget.h"

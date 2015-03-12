@@ -1,4 +1,4 @@
-#ifndef PARAMETER_DIGITALPIN_FORM_H
+﻿#ifndef PARAMETER_DIGITALPIN_FORM_H
 #define PARAMETER_DIGITALPIN_FORM_H
 
 #include "ui_Parameter_DigitalPin_Form.h"

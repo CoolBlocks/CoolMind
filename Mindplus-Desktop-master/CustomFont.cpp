@@ -1,4 +1,4 @@
-#include "CustomFont.h"
+﻿#include "CustomFont.h"
 #include <QDir>
 #include <QString>
 #include <QFont>

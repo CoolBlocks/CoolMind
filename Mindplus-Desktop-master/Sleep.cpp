@@ -1,4 +1,4 @@
-#include "Sleep.h"
+﻿#include "Sleep.h"
 #include <QObject>
 
 #ifdef Q_OS_WIN32

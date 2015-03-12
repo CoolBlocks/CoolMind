@@ -1,4 +1,4 @@
-#ifndef PARAMETER_LED8X8_FORM_H
+﻿#ifndef PARAMETER_LED8X8_FORM_H
 #define PARAMETER_LED8X8_FORM_H
 
 #include "ui_Parameter_LED8x8_Form.h"

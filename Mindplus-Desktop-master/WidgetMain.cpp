@@ -1,4 +1,4 @@
-#include "WidgetMain.h"
+﻿#include "WidgetMain.h"
 #include <QMouseEvent>
 #include <QDebug>
 #include <QDesktopWidget>

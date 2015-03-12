@@ -1,4 +1,4 @@
-#ifndef SERIALPORTTOOLFORM_H
+﻿#ifndef SERIALPORTTOOLFORM_H
 #define SERIALPORTTOOLFORM_H
 
 #include "ui_SerialPortToolForm.h"

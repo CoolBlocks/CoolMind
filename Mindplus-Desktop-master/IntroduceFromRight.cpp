@@ -1,4 +1,4 @@
-#include "IntroduceFromRight.h"
+﻿#include "IntroduceFromRight.h"
 #include <QPainter>
 #include <QPen>
 #include <QBrush>

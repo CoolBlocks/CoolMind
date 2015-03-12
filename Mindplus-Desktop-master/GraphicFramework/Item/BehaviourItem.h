@@ -1,4 +1,4 @@
-#ifndef BEHAVIOURITEM_H
+﻿#ifndef BEHAVIOURITEM_H
 #define BEHAVIOURITEM_H
 
 #include "GraphicsItemBase.h"

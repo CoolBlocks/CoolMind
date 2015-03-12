@@ -1,4 +1,4 @@
-#ifndef PARAMETER_TIME_FORM_H
+﻿#ifndef PARAMETER_TIME_FORM_H
 #define PARAMETER_TIME_FORM_H
 
 #include "ui_Parameter_Time_Form.h"

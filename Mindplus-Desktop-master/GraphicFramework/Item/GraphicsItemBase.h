@@ -1,4 +1,4 @@
-#ifndef GRAPHICSITEMBASE_H
+﻿#ifndef GRAPHICSITEMBASE_H
 #define GRAPHICSITEMBASE_H
 
 #include <QGraphicsObject>
