@@ -55,6 +55,7 @@ struct ParamIn
     QString imagePath;
     QString uiType;
     QString toolTip;
+    QString postfix; //SLJ fix array define issue
 };
 
 struct ParamOut
