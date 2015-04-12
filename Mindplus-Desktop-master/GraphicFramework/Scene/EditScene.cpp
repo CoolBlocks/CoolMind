@@ -2946,7 +2946,8 @@ GraphicsItermGroup* EditScene::createItemGroup(const QPointF &pos, const QString
 		//bool visible = bbData_.paramIn.at(i).bVisble;
 		QString imgPath = bbData_.paramIn.at(i).imagePath;
 		QString typeUi = bbData_.paramIn.at(i).uiType;
-
+		QString postfix = bbData_.paramIn.at(i).postfix;	//SLJ fix array define issue
+		
 		//SLJ begin
 		if(i<paramInlist.size())
 		{
@@ -2987,7 +2988,16 @@ GraphicsItermGroup* EditScene::createItemGroup(const QPointF &pos, const QString
 
 		connect(tmp, SIGNAL(signalParamValueChange(QString,QString,QString)),this, SLOT(slotParamValueChange(QString,QString,QString)));
 		//加入数据库中!!!!!!!!!!!!!!!!!!!!!!!!!!!
-		pDatabaseEditComponent_->insertParamterData(paramterCount, type, value, temp, typeUi, "", "");
+
+//SLJ patch for float array in the block CurveGenerator.mpb begin
+		//pDatabaseEditComponent_->insertParamterData(paramterCount, type, value, temp, typeUi, "", "");
+		/*if((bbData_.ui.fileName=="CurveGenerator") && (name == "Curve"))
+			pDatabaseEditComponent_->insertParamterData(paramterCount, type, value, temp, typeUi, "", "[2][2]");
+		else
+			pDatabaseEditComponent_->insertParamterData(paramterCount, type, value, temp, typeUi, "", "");*/
+
+		pDatabaseEditComponent_->insertParamterData(paramterCount, type, value, temp, typeUi, "", postfix); 
+//SLJ patch for float array in the block CurveGenerator.mpb end
 
 		//这里是处理bbName有空格的情况//////////////////////////////////////////////////////////
 		QString name11;
