@@ -124,6 +124,7 @@ DataStruct GetBlockData::getBlockData(const QString &blockPath)
 			QString imgPath = query.value(5).toString();
 			Pi.uiType = query.value(6).toString();
 			Pi.toolTip = query.value(7).toString();
+			Pi.postfix = query.value(8).toString();	//SLJ patch for float array in the block CurveGenerator.mpb
 			if(imgPath.isEmpty())
 			{
 				imgPath = "./resource/images/UI_Block_Pin.png";
